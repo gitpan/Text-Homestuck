@@ -1,0 +1,24 @@
+---
+abstract: 'Emulate the typing quirks of Homestuck trolls'
+author:
+  - 'Marius Gavrilescu <marius@ieval.ro>'
+build_requires:
+  ExtUtils::MakeMaker: '0'
+configure_requires:
+  ExtUtils::MakeMaker: '0'
+dynamic_config: 0
+generated_by: 'ExtUtils::MakeMaker version 6.66, CPAN::Meta::Converter version 2.133380'
+license: perl
+meta-spec:
+  url: http://module-build.sourceforge.net/META-spec-v1.4.html
+  version: '1.4'
+name: Text-Homestuck
+no_index:
+  directory:
+    - t
+    - inc
+requires:
+  perl: '5.014000'
+resources:
+  repository: https://git.ieval.ro/?p=text-homestuck.git
+version: 0.000_001

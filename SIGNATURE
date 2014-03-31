@@ -1,0 +1,41 @@
+This file contains message digests of all files listed in MANIFEST,
+signed via the Module::Signature module, version 0.73.
+
+To verify the content in this distribution, first make sure you have
+Module::Signature installed, then type:
+
+    % cpansign -v
+
+It will check each file's integrity, as well as the signature's
+validity.  If "==> Signature verified OK! <==" is not displayed,
+the distribution may already have been compromised, and you should
+not run its Makefile.PL or Build.PL.
+
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA512
+
+SHA1 0040a253d1d19f885217c78c8647e7185bfa3b6e Changes
+SHA1 3383ea4cddd8d3b30e460e141e7f31e6acd6409f MANIFEST
+SHA1 3800399b5f04f5172313a680c2d4a13903040700 META.json
+SHA1 57b226e63b560aad3c6142741c038183b3e9ab96 META.yml
+SHA1 42b2db60e7e9d2c8a5ec80c7aea59fa124656d63 Makefile.PL
+SHA1 061cb20d92a3f25d056f96492792108007d73611 README
+SHA1 3aab0b6bf93daec7d24ef5c5029e4e1dc60e0a1a lib/Text/Homestuck.pm
+SHA1 aba264dce5151561503a79796ede2106e7382bd3 t/Text-Homestuck.t
+-----BEGIN PGP SIGNATURE-----
+Version: GnuPG v1
+
+iQIcBAEBCgAGBQJTOfKFAAoJEMoENb5ewbNiWd4P/ip7894kYr1MURPPLEFu8t9s
+3BkzrMehhLVxPMNAXlHoJ11UdwO60jx1I+NV+NxemymaDXHmgVjHxr1iMHmy5YiL
+dpGy1+5HZlWt0yCtL7RSTzCmz/2Xld4edZ06l3Tbodlii6DzvacnzNe2HB09v6eU
+432xMSC3VSf55MDVKlewkbe8AOaS6NoUNa5E5BVNAKEbUdz7ZYJwnEp2N3Hxa4GT
+enyG2Blxj8mxUy9bDS2ZVzVjG92n0fIBT+BUuTfr7dVl7v0Jry+gmjL4poNlHKsj
+4P93zaykvGJZpExukOlMjp2BGH7cqXMgE1FhZYtzSQvXphQZDgNpWGLyQlQ52Rfp
+5SExn0wXbpV/H6l0WdF3y7IARypgRkhC0PDtIGK+BZNt9zfAEoku5/FM82+Y1ICd
+HqFwHhmtjnZ47n1C71bUL4+xlWEDTMdLlyC+IE1N51ip8hEkca8vw9lZXcM3KnA5
+RmhCRO3BNoTmaB29okW58l20aSM1xmKiEmub7hCuYZuQJHtNXPgzAjfXkLHIqD/o
+pcvWVTgcPmu43gPflg1qkU7Xd9oCV8MqqYCksQR1ziduNYihmL6YqcIaAK2wz0oq
+xKU+GSRvexjkFJXYB567NlTYccE+unJ/+OchtKslJ3jqd/iZ5B1nlRhJJ77wFMmE
+JuWa5/q5lgQFpulEhI68
+=nCmc
+-----END PGP SIGNATURE-----
